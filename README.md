@@ -1,2 +1,2 @@
-# Linier2-quiz
+# Linearr2-quiz
 A linier 2 quiz for better prepare
